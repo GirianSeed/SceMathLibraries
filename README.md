@@ -61,7 +61,7 @@ erwin.coumans | May 6, 2010  | 2091   | Minor update SSE version of SCE Vectorma
 ### SIMD Math Library
 
 ```
-  SIMD math library functions for both the PowerPC (PPU) and the SPU.
+   SIMD math library functions for both the PowerPC (PPU) and the SPU.
    Copyright (C) 2006, 2007 Sony Computer Entertainment Inc. 
    All rights reserved.
 
@@ -94,7 +94,7 @@ erwin.coumans | May 6, 2010  | 2091   | Minor update SSE version of SCE Vectorma
 ### Vector Math Library
 
 ```
- Vector Math library for 3-D linear algebra (vector, matrix, quaternion)
+   Vector Math library for 3-D linear algebra (vector, matrix, quaternion)
    SIMD support for SSE, PowerPC (PPU) and the SPU.
    Also includes generic multi-platform scalar version. 
 
